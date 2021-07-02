@@ -29,3 +29,11 @@ public:
 };
 
 typedef int FTTPRIMTYPE;
+
+
+struct GFXSPEC_pSpec
+{
+	char field_0[68];
+	int field_44;
+	int field_48;
+};
